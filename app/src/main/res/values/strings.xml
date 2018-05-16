@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculadora_suma</string>
+    <string name="resultado">El resultado es: </string>
+    <string name="titNum1">Ingrese primer número </string>
+    <string name="titNum2">Ingrese segundo número </string>
+    <string name="btnSumar">Sumar </string>
+</resources>
